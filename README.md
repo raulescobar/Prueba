@@ -1,4 +1,4 @@
-# Prueba Técnica - Gestor de Productos
+# Prueba técnica - Gestor Productos
 Esta es una aplicación web para gestionar productos (CRUD) construida con Laravel
 
 
@@ -7,7 +7,7 @@ Esta es una aplicación web para gestionar productos (CRUD) construida con Larav
 *   Docker
 *   Docker Compose
 
-## Instalación y Ejecución
+## Instalación y ejecución
 
 1.  Clona el repositorio:
     ```bash
@@ -15,7 +15,7 @@ Esta es una aplicación web para gestionar productos (CRUD) construida con Larav
     cd Prueba
     ```
 
-2.  Laravel Sail utiliza un archivo `docker-compose.yml` que ya está incluido. No necesitas crear uno. Simplemente levanta los servicios con Sail:
+2.  Laravel Sail utiliza un archivo `docker-compose.yml` que ya está incluido. Levanta los servicios con Sail:
     ```bash
     ./vendor/bin/sail up -d
     ```
